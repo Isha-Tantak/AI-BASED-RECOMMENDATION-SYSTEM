@@ -124,3 +124,7 @@ These are the recommended items for **User 1** based on their past ratings.
 This `README.md` will guide users through setting up, running, and understanding the recommendation engine project.
 
 #OUTPUT:
+
+
+
+![Image](https://github.com/user-attachments/assets/4c132fb5-0755-4c4f-8482-41c3f845acc0)
